@@ -1,0 +1,50 @@
+<svg height="625" viewBox="124.528 16 262.944 480" width="625" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    
+    <path d="m387.472 496v-480h-91.87v468.904c53.636 3.416 91.87 11.096 91.87 11.096z" 
+          fill="#c20000" 
+          clip-path="url(#revealClip3)" />
+  
+    <clipPath id="revealClip3">
+        <rect x="0" y="500" width="500" height="500">
+        <animate 
+            attributeName="y" 
+            from="500" 
+            to="0" 
+            dur="0.5s" 
+            begin="1s"
+            fill="freeze" />
+        </rect>
+    </clipPath>
+
+    <path d="m216.398 16h-91.87v480c30.128-7.135 61.601-10.708 91.87-12.052z" 
+          fill="#c20000" 
+          clip-path="url(#revealClip)" />
+  
+    <clipPath id="revealClip">
+        <rect x="0" y="500" width="300" height="500">
+        <animate 
+            attributeName="y" 
+            from="500" 
+            to="0" 
+            dur="0.5s" 
+            fill="freeze" />
+        </rect>
+    </clipPath>
+
+    <path d="m387.472 496-171.074-480h-91.87l167.03 468.655c55.75 3.276 95.914 11.345 95.914 11.345z" 
+          fill="#fa0000" 
+          clip-path="url(#revealClip2)" />
+  
+    <clipPath id="revealClip2">
+        <rect x="0" y="0" width="500" height="0">
+        <animate 
+            attributeName="height" 
+            from="0" 
+            to="500" 
+            dur="0.5s"
+            begin="0.5s" 
+            fill="freeze" />
+        </rect>
+    </clipPath>
+
+</svg>
